@@ -35,7 +35,7 @@ Este Código de Conduta se aplica:
 
 ## Aplicação
 
-- Casos de abuso, assédio ou comportamento inaceitável podem ser reportados para a equipe do projeto pelo e-mail: **contact@dnx.solutions**  
+- Casos de abuso, assédio ou comportamento inaceitável podem ser reportados para a equipe do projeto pelo e-mail: **contact@dnx.solutions** <!-- substituir pelo e-mail real. ou deixar sem email para esse projeto -->
 - Todas as denúncias serão analisadas e investigadas, com a devida confidencialidade para quem reportar.  
 - Consequências podem variar conforme a gravidade, sempre com foco em manter a comunidade saudável.  
 
@@ -53,4 +53,4 @@ Este Código de Conduta se aplica:
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1.0 | Criação do documento de código de conduta | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 02/09/2025 |  |  |
+| 1.0 | Criação do documento de código de conduta | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 02/09/2025 | [Matheus de Alcântara](https://github.com/matheusdealcantara) | 02/09/2025 |
