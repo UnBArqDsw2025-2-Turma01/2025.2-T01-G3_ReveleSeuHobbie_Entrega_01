@@ -78,5 +78,4 @@ Durante a reunião da equipe, ficou definido que branches de código devem ser c
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-
 | 1.0 | Criação do documento de padronização de commits e branches | [Ruan Carvalho](https://github.com/Ruan-Carvalho) | 02/09/2025 | [Matheus de Alcântara](https://github.com/matheusdealcantara) | 02/09/2025 |
