@@ -1,2 +1,29 @@
-# Introdução
-sou a yza e amo o wrosnkiano (meu gato)
+## Introdução
+Com o objetivo de resolver o problema comum de encontrar horários para reuniões e 
+desenvolvimento de projetos, foi elaborado um mapa de calor (Heatmap) para 
+analisar a disponibilidade dos membros de um grupo.
+
+Na Figura1, os valores variam de 0 a 10, indicando a disponibilidade geral 
+do grupo em determinados horários. Um valor de 0 significa que nenhum integrante 
+está disponível, enquanto um valor de 10 indica que todos os integrantes estão 
+disponíveis, facilitando a escolha de horários ideais para as atividades do grupo.
+
+<p align="center"><strong>Figura 1: Heatmap do grupo 03 </strong></p>
+
+<p align="center">
+  <img src="heatmap_grupo03.png" alt="Heatmap de disponibilidade da equipe" width="600">
+</p>
+<p align="center"><em>Autor: <a href="https://github.com/redjsun">Yzabella Pimenta</a>.</em></p>
+
+## Resultados
+Após a análise dos dados preenchidos por cada integrante do grupo, foi obtido os seguintes horários:
+
+- Segunda: das 20:00 às 22:00
+- Terça: das 21:00 às 22:00
+- Quarta: das 21:00 às 22:00
+- Quinta: das 21:00 às 22:00
+
+# Histórico de versões
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|--------|------|-----------|-----------|-------------|
+| `1.0` | 02/07/2025 | Criação do documento, organização estrutural e de textos de cada tópico da documentação. | [Yzabella Miranda](https://github.com/redjsun)  | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
