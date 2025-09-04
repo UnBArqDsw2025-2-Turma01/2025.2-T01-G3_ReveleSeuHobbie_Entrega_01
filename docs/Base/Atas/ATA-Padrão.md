@@ -11,9 +11,9 @@
 
 **Tabela 1:** Cabeçalho com datas, horarios e realizadores.
 
-| Data | Hora de Início Previsto | Hora de Início Realizado | Hora de Término Previsto | Hora de Término Realizado | Local | Redator | Projeto | Revisor |
-|------------|--------------------------|--------------------------|--------------------------|---------------------------|-------------|-------------|--------------|--------|
-|  |  |  |  |  |  |  |  |  |
+| Data | Hora de Início Previsto | Hora de Início Realizado | Hora de Término Previsto | Hora de Término Realizado | Local | Redator | Revisor |
+|------------|--------------------------|--------------------------|--------------------------|---------------------------|-------------|-------------|--------------|
+|  |  |  |  |  |  |  |  |  
 
 Autor: (Coloque aqui o nome de quem preencheu a tabela acima)
 

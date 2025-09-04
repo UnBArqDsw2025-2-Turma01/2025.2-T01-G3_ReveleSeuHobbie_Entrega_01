@@ -6,7 +6,7 @@
 
 | Data       | Hora de Início Previsto | Hora de Início Realizado | Hora de Término Previsto | Hora de Término Realizado | Local       | Redator     | Revisor |
 |------------|--------------------------|--------------------------|--------------------------|---------------------------|-------------|-------------|--------|
-| 03/09/2025 | 20:00                    | 20:14                    | 21:00                    | 20:59                     | Microsoft Teams | [Leonardo Barcellos](https://github.com/oyLeonardo) |  |
+| 03/09/2025 | 20:00                    | 20:08                    | 21:30                    | 21:13                     | Microsoft Teams | [Leonardo Barcellos](https://github.com/oyLeonardo) | [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho) |
 
 Autor(es): [Leonardo Barcellos](https://github.com/oyLeonardo), 2025.
 
@@ -17,7 +17,7 @@ Autor(es): [Leonardo Barcellos](https://github.com/oyLeonardo), 2025.
 | Nome | Presente |
 |:----------------:|:-:|
 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) |Sim|
-| [Ígor Veras Daniel](https://github.com/igorvdaniel) |Sim|
+| [Ígor Veras Daniel](https://github.com/igorvdaniel) |Não|
 | [Gabriel Flores](https://github.com/Gabrielfcoelho) |Sim|
 | [Leonardo Barcellos](https://github.com/oyLeonardo) |Sim|
 | [Natan Almeida](https://github.com/natanalmeida03) |Sim|
@@ -30,16 +30,16 @@ Autor(es): [Leonardo Barcellos](https://github.com/oyLeonardo), 2025.
 
 **Link da gravação:** 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xsnDphSV9Mw?si=EEWJobAQRtpLh3d-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hIq7IlE832Q?si=XZy9_Q3arvt2elzF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2. Pauta
 
-* Revisão do Brainstorm 
-* Divisão de tarefas para as primeiras entregas (Design Sprint & Artefato Generalista).
+* Revisão de entregas 
+* Divisão de tarefas para a Modelagem BPMN.
 
 ## 3. Pendências Anteriores
 
-Nenhuma.
+Revisão das entregas e como a Modelagem BPMN seria feita.
 
 ## 4. Assuntos Tratados
 
@@ -47,17 +47,19 @@ Nenhuma.
 
 | N° | Descrição | Tipo   |
 |----|-----------|--------|
-| 1  | Revisar o Brainstorm realizado em sala | Decisão |
-| 1  | Separar atividades para o Design Sprint | Decisão |
-| 2  | Separar atividades para o Artefato Generalista | Decisão |
-| 3  | Documentar a ata de reunião | Pendência |
-| 4  | Definição de atividades para Modelagem BPMN | Pendência |
+| 1  | Revisar Desenvolvimento do Protótipo | Decisão |
+| 1  | Finalizar Protótipo | Pendência |
+| 2  | Documentar artefatos feitos | Pendência |
+| 3  | Realizar Modelagem BPMN e seus diagramas | Pendência |
+| 4  | Definição de duplas para Modelagem BPMN | Pendência |
+| 5  | Escolha Rich Picture final | Decisão |
+| 6  | Agendamento da próxima reunião | Decisão |
 
 Autor(es): [Leonardo Barcellos](https://github.com/oyLeonardo), 2025.
 
 ## 5. Próxima Reunião
 
-Próxima reunião será na quarta-feira (03/09/2025). Sendo realizada no Microsoft Teams. 
+Próxima reunião será na quinta-feira (04/09/2025). Sendo realizada no Microsoft Teams. 
 
 ## 6. Compromissos
 
@@ -65,7 +67,7 @@ Próxima reunião será na quarta-feira (03/09/2025). Sendo realizada no Microso
 
 | N° | Compromisso | Responsável | Data |
 |----|-------------|-------------|------|
-| 1  | Fazer a ata da reunião | Leonardo Barcellos | 02/09 |
+| 1  | Fazer a ata da reunião | Leonardo Barcellos | 03/09 |
 
 Autor(es): [Leonardo Barcellos](https://github.com/oyLeonardo), 2025.
 
@@ -75,4 +77,4 @@ Autor(es): [Leonardo Barcellos](https://github.com/oyLeonardo), 2025.
 
 | Versão |               Descrição                |   Autor    |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Versão inicial da ata | [Leonardo Barcellos](https://github.com/oyLeonardo) | 04/09/2025 |  |  |
+|  1.0   | Versão inicial da ata | [Leonardo Barcellos](https://github.com/oyLeonardo) | 03/09/2025 | [Ruan Sobreira Carvalho](https://github.com/Ruan-Carvalho) | 04/09/2025 |
