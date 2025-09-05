@@ -25,7 +25,7 @@
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras](./Base/1.5.IniciativasExtras.md)
       - [1.5.1 Heatmap](/Base/1.5.1.heatmap.md)
-      - [1.5.2 Questionário](./Base/1.5.2.Questionario.md)
+      - [1.5.2 Perfil de Usuário](/Base/PerfilDeUsuário.md)
 - **Atas**
    - [Reunião 01](./Base/Atas/Reuniao01.md)
    - [Reunião 02](./Base/Atas/Reuniao02.md)
