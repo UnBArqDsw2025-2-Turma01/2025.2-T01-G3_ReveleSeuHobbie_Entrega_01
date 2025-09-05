@@ -1,12 +1,32 @@
-<!-- docs/_sidebar.md -->
-
-- [Home](/docs)
-- [Projetos](/docs/Projeto/Projeto.md)
-
 - **Base**
-  - [1. Desenho de Software (Base)](/docs/Base/1.Base.md)
-    - [1.1. Design Sprint](/docs/Base/1.1.DesignSprint.md)
-    - [1.2. Artefato Generalista](/docs/Base/1.2.ArtefatoGeneralista.md)
-    - [1.3. Modelagem BPMN](/docs/Base/1.3.ModelagemBPMN.md)
-    - [1.4. Participações - Base](/docs/Base/1.4.ParticipacoesBase.md)
-    - [1.5. Iniciativas Extras - Base](/docs/Base/1.5.IniciativasExtras.md)
+  - [1. Desenho de Software (Base)](/Base/1.Base.md)
+    - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
+      - **1.1.1 Unpack**
+         - [1.1.1.1 Brainstorming](/Base/1.1.1.1.Brainstorming.md)
+         - [1.1.1.2 Elicitação Questionário](./Base/1.5.2.Questionario.md)
+         - [1.1.1.3 Diagrama de Causa e Efeito](/Base/1.1.1.1.DiagramaCausaEfeito.md)
+         - [1.1.1.4 5W2H](/Base/1.2.1.5w2h.md)
+      - **1.1.2  Sketch**
+         - [1.1.2.1 Léxicos](/Base/1.2.2.Lexicos.md)   
+         - [1.1.2.2 Rich Picture](/Base/1.1.2.1.RichPicture.md)
+         - [1.1.2.3 Glossário](/Base/1.1.1.8.Vocabulario.md)
+      - **1.1.3  Decision**
+         - [1.1.3.1 Rich Picture Escolhido](/Base/1.1.2.1.RichPicture.md)
+         - [1.1.3.2 Storyboard](/Base/1.1.3.2.Storyboard.md)   
+      - **1.1.4  Prototype**
+         - [1.1.4.1 Prototype](/Base/1.1.Prototipacao.md)
+      - **1.1.5  Validation**
+    - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)  
+       - [1.2.1. Mapa Mental](./Base/1.2.2.MapaMental.md)
+       - [1.2.2. 5W2H](/Base/1.2.1.5w2h.md)
+       - [1.2.3. Diagrama de Causa Efeito](/Base/1.1.1.1.DiagramaCausaEfeito.md)  
+       - [1.2.4. Léxicos](/Base/1.2.2.Lexicos.md)   
+    - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
+    - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
+    - [1.5. Iniciativas Extras](./Base/1.5.IniciativasExtras.md)
+      - [1.5.1 Heatmap](/Base/1.5.1.heatmap.md)
+      - [1.5.2 Questionário](./Base/1.5.2.Questionario.md)
+- **Atas**
+   - [Reunião 01](./Base/Atas/Reuniao01.md)
+   - [Reunião 02](./Base/Atas/Reuniao02.md)
+   - [Reunião 03](./Base/Atas/Reuniao03.md)
