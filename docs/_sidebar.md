@@ -1,11 +1,9 @@
-- [Home](/docs)
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
       - **1.1.1 Unpack**
          - [1.1.1.1 Brainstorming](/Base/1.1.1.1.Brainstorming.md)
          - [1.1.1.2 Elicitação Questionário](./Base/1.5.2.Questionario.md)
-         - [1.1.1.3 Elicitação Questionário](./Base/1.5.2.Questionario.md)
       - **1.1.2  Sketch**
          - [1.2.4. Léxicos](/Base/1.2.2.Lexicos.md)   
          - [1.1.1.2 Rich Picture](/Base/1.1.2.1.RichPicture.md)
@@ -24,3 +22,7 @@
     - [1.5. Iniciativas Extras](./Base/1.5.IniciativasExtras.md)
       - [1.5.1 Heatmap](/Base/1.5.1.heatmap.md)
       - [1.5.2 Questionário](./Base/1.5.2.Questionario.md)
+- **Atas**
+   - [Reunião 01](./Base/Atas/Reuniao01.md)
+   - [Reunião 02](./Base/Atas/Reuniao02.md)
+   - [Reunião 03](./Base/Atas/Reuniao03.md)
