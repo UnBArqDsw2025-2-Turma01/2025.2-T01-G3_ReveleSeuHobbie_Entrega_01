@@ -2,11 +2,18 @@
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
+      - **1.1.1 Unpack**
          - [1.1.1.1 Brainstorming](/Base/1.1.1.1.Brainstorming.md)
-         - [1.1.1.2 Rich Picture](/Base/1.1.2.1.RichPicture.md)
+         - [1.1.1.2 Elicitação Questionário](./Base/1.5.2.Questionario.md)
          - [1.1.1.3 Elicitação Questionário](./Base/1.5.2.Questionario.md)
+      - **1.1.2  Sketch**
+         - [1.2.4. Léxicos](/Base/1.2.2.Lexicos.md)   
+         - [1.1.1.2 Rich Picture](/Base/1.1.2.1.RichPicture.md)
+      - **1.1.3  Decision**
+         - [1.1.3. Rich Picture Escolhido](/Base/1.1.2.1.RichPicture.md)
+      - **1.1.4  Prototype**
          - [1.1.1.4 Prototype](/Base/1.1.Prototipacao.md)
-      - [1.1.2 Sketch](/Base/1.1.2.Sketch.md)
+      - **1.1.3  Validation**
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)  
        - [1.2.1. Mapa Mental](./Base/1.2.2.MapaMental.md)
        - [1.2.2. 5W2H](/Base/1.2.1.5w2h.md)
