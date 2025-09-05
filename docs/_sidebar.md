@@ -4,13 +4,17 @@
       - **1.1.1 Unpack**
          - [1.1.1.1 Brainstorming](/Base/1.1.1.1.Brainstorming.md)
          - [1.1.1.2 Elicitação Questionário](./Base/1.5.2.Questionario.md)
+         - [1.1.1.3 Diagrama de Causa e Efeito](/Base/1.1.1.1.DiagramaCausaEfeito.md)
+         - [1.1.1.4 5W2H](/Base/1.2.1.5w2h.md)
       - **1.1.2  Sketch**
-         - [1.2.4. Léxicos](/Base/1.2.2.Lexicos.md)   
-         - [1.1.1.2 Rich Picture](/Base/1.1.2.1.RichPicture.md)
+         - [1.1.2.1 Léxicos](/Base/1.2.2.Lexicos.md)   
+         - [1.1.2.2 Rich Picture](/Base/1.1.2.1.RichPicture.md)
+         - [1.1.2.3 Glossário](/Base/1.1.1.8.Vocabulario.md)
       - **1.1.3  Decision**
-         - [1.1.3. Rich Picture Escolhido](/Base/1.1.2.1.RichPicture.md)
+         - [1.1.3.1 Rich Picture Escolhido](/Base/1.1.2.1.RichPicture.md)
+         - [1.1.3.2 Storyboard](/Base/1.1.3.2.Storyboard.md)   
       - **1.1.4  Prototype**
-         - [1.1.1.4 Prototype](/Base/1.1.Prototipacao.md)
+         - [1.1.4.1 Prototype](/Base/1.1.Prototipacao.md)
       - **1.1.5  Validation**
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)  
        - [1.2.1. Mapa Mental](./Base/1.2.2.MapaMental.md)
