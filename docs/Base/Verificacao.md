@@ -63,6 +63,6 @@ A verificação do protótipo de alta fidelidade do "Revele seu Hobby" permitiu 
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor |
-| :---: | :---: | :--- | :--- | ----- |  
-| `1.0` | 05/09/2025 | Criação do documento de verificação do protótipo. | [Gabriel Flores](https://github.com/Gabrielfcoelho) e [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) |
+| Versão | Data | Descrição | Autor(es) | Revisor | Data da Revisão |
+| :---: | :---: | :--- | :--- | ----- |----- |  
+| `1.0` | 05/09/2025 | Criação do documento de verificação do protótipo. | [Gabriel Flores](https://github.com/Gabrielfcoelho) e [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | 05/07/2025 |
