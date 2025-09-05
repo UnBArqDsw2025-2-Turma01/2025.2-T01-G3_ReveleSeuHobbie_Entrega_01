@@ -26,10 +26,10 @@ O projeto "Revele Seu Hobbie" é uma plataforma inovadora destinada a conectar p
 ## Screenshots da Primeira Entrega
 
 ### Diagrama de Causa e Efeito
-![Diagrama de Causa e Efeito](./Base/assets/Ishikawa.png)
+![Diagrama de Causa e Efeito](./Assets/Ishikawa.png)
 
 ### Rich Picture 
-![Rich Picture - Ana Luiza Soares](./Base/richPictures/rich_picture_ana_luiza.png)
+![Rich Picture - Ana Luiza Soares](./Assets/rich_picture_ana_luiza.png)
 
 ## Há algo a ser executado?
 
