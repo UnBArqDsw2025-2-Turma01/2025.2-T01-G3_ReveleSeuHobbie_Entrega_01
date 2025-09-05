@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 - [Home](/)
 - [Projetos](/Projeto/Projeto.md)
 
