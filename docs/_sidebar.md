@@ -11,7 +11,7 @@
          - [1.1.2.2 Rich Picture](/Base/1.1.2.1.RichPicture.md)
          - [1.1.2.3 Glossário](/Base/1.1.1.8.Vocabulario.md)
       - **1.1.3  Decision**
-         - [1.1.3.1 Rich Picture Escolhido](/Base/1.1.2.1.RichPicture.md)
+         - [1.1.3.1 Rich Picture Escolhido](/Base/1.1.3.1.RichPictureEscolhido.md)
          - [1.1.3.2 Storyboard](/Base/1.1.3.2.Storyboard.md)   
       - **1.1.4  Prototype**
          - [1.1.4.1 Prototype](/Base/1.1.Prototipacao.md)
